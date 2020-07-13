@@ -1,0 +1,69 @@
+{
+    "tabs": { 
+        "tab1": "All", 
+        "tab2": "Agriculture and forestry", 
+        "tab3": "Coastal fishing and aquaculture", 
+        "tab4": "Water", 
+        "tab5": "Invasive species"
+    },
+
+    "themes": { 
+        "agr": "Agriculture and forestry", 
+        "fish": "Coastal fishing and aquaculture", 
+        "water": "Water", 
+        "anim": "Invasive species"
+    },
+
+    "first": {
+        "title": "Welcome to PROTEGE news",
+        "text": "All the latest project news in your pocket.",
+        "button": "Let's go"
+    },
+
+    "second": {
+        "title": "Be informed of the latest news",
+        "text": "Activate the notifications to be informed when a new news is published.",
+        "button": "Enable notifications",
+        "reject": "No thanks!"
+    },
+
+    "third": {
+        "title": "For which topics would you like to receive notifications?",
+        "button": "Next"
+    },
+
+    "settings": {
+        "name": "Name",
+        "last_name": "Surname",
+        "edit": "Edit my information",
+        "notifications": "Notifications",
+        "about": "Protège par PROTEGE",
+        "info": "My information",
+        "photo": "Change profile photo",
+        "save": "Save",
+        "back": "Cancel",
+        "lang": "Changez la langue en "
+    },
+
+    "post": {
+        "rel": "Related articles",
+        "back": "Return to the main page"
+    },
+
+    "terms": {
+        "link": "Visit our website"
+    },
+
+    "post_type": {
+        "text": "Report",
+        "audio": "Web news",
+        "video": "Video"
+    },
+
+   "error": {
+        "line_one": "There are no posts at this moment.",
+        "line_two": "Try again later."
+    },
+
+    "NSPhotoLibraryUsageDescription": "This application uses the photo library to set user avatar."
+}

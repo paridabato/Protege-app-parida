@@ -1,0 +1,44 @@
+{
+  "expo": {
+    "name": "Protege",
+    "slug": "protege",
+    "privacy": "public",
+    "sdkVersion": "36.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.0.1",
+    "orientation": "portrait",
+    "notification": {
+      "iosDisplayInForeground": true,
+      "icon": "./assets/img/notif_icon.png"
+    },
+    "icon": "./assets/img/icon.png",
+    "primaryColor": "#3da2c0",
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": false,
+      "infoPlist": {
+        "NSPhotoLibraryUsageDescription": "Cette application utilise la galerie des photos pour mettre l’avatar d’utilisateur."
+      },
+      "bundleIdentifier": "int.spc.protege",
+      "buildNumber": "24",
+      "requireFullScreen": true
+    },
+    "android": {
+      "package": "com.protege.protege",
+      "versionCode": 24
+    },
+    "description": "",
+    "githubUrl": "https://github.com/photocat/Protege-app",
+    "locales": {
+      "en": "./lang/fr.json"
+    }
+  }
+}

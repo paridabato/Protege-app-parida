@@ -1,0 +1,69 @@
+{
+    "tabs": { 
+        "tab1": "Tous", 
+        "tab2": "Agriculture et foresterie", 
+        "tab3": "Pêche et aquaculture", 
+        "tab4": "Eau", 
+        "tab5": "Espèces envahissantes"
+    },
+
+    "themes": { 
+        "agr": "Agriculture et foresterie", 
+        "fish": "Pêche côtière et aquaculture", 
+        "water": "Eau", 
+        "anim": "Espèces envahissantes"
+    },
+
+    "first": {
+        "title": "Bienvenue dans l’actualité de PROTEGE",
+        "text": "Toute l’actualité du projet dans votre poche.",
+        "button": "C’est parti"
+    },
+
+    "second": {
+        "title": "Soyez informé des dernières actus",
+        "text": "Activez les notifications pour être informé lors de la publication d’une nouvelle actualité.",
+        "button": "Activer les notifications",
+        "reject": "Non merci !"
+    },
+
+    "third": {
+        "title": "Pour quels thèmes souhaitez-vous recevoir des notifications ?",
+        "button": "Suivant"
+    },
+
+    "settings": {
+        "name": "Nom",
+        "last_name": "Prénom",
+        "edit": "Modifier mes informations",
+        "notifications": "Notifications",
+        "about": "Protège par PROTEGE",
+        "info": "Mes informations",
+        "photo": "Changer de photo de profil",
+        "save": "Valider",
+        "back": "Annuler",
+        "lang": "Change language to "
+    },
+
+    "post": {
+        "rel": "Articles connexes",
+        "back": "Revenir à la une"
+    },
+
+    "terms": {
+        "link": "Visiter notre site web"
+    },
+
+    "post_type": {
+        "text": "Communiqué",
+        "audio": "Actu web",
+        "video": "Vidéo"
+    },
+
+    " error": {
+        "line_one": "Il n’y a pas d’articles correspondants en ce moment.",
+        "line_two": "Veuillez essayer de nouveau plus tard."
+    },
+
+    "NSPhotoLibraryUsageDescription": "Cette application utilise la galerie des photos pour mettre l’avatar d’utilisateur."
+}
